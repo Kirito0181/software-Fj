@@ -1,4 +1,4 @@
-                                      # SOFTWARE FJ
+ # SOFTWARE FJ
 
 ![Sistema](asuna-yuki.jpg)
 
