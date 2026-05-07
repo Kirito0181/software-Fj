@@ -1,6 +1,6 @@
 # SOFTWARE FJ
 
-![Sistema](asuna yuki.jpg)
+![Sistema](asuna-yuki.jpg)
 
 ## BIENVENIDOS 😎
 
