@@ -22,9 +22,4 @@ Visual estudio code
 
 Manejo de archivos .txt 
 
-                                                       COLABORADORES
-FABRICIO ANTONIO CORONADO VILLERA
-
-SEBASTIAN MORA
-
-JORGE ALTAMIRANDA ALVARES
+            
