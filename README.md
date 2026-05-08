@@ -6,7 +6,9 @@ Sistema integral de gestión de clientes, servicios y reservas para la empresa *
   ## DESCRIPCIÓN 
 Este proyecto provee una aplicación ajustable y extensible con el fin de administrar tres servicios:
 -🏦**Reserva de salas**
+
 -💻**Alquiler de equipos**
+
 -🧠**Asesorias especiales**
 
 Toda la información es usada para el **registro de errores** en un sistema de logs resistente.
