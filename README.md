@@ -1,8 +1,12 @@
+# BIENVENIDOS 😎
+  
+  
+  
   # SOFTWARE FJ
 Sistema integral de gestión de clientes, servicios y reservas para la empresa **Software FJ**, desarrollado en python mediante un diseño orientado a objetos y sin usar bases de datos..
 ![Sistema](asuna-yuki.jpg)
 
-  ## BIENVENIDOS 😎
+  
   ## DESCRIPCIÓN 
 Este proyecto provee una aplicación ajustable y extensible con el fin de administrar tres servicios:
 
