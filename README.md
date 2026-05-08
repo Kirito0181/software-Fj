@@ -34,8 +34,11 @@ Además, se utilizó Git y GitHub para el control de versiones y trabajo colabor
  ## OBJETIVOS DEL SISTEMA
   
 -Aplicar lo mejor posible los principios de **abstracción, herencia, polimorfismo y encapsulación**
+
 -Aplicar el **manejo avanzado de excepciones** con bloques 'try/except´, 'try/except/else', 'try/except/finnaly' y también el encadenamiento de excepciones.
+
 -La idea también es garantizar que el sistema sea **estable** y evitar errores junto con operaciones no permitidas.
+
 -Registrar todos esos errores en un **archivo de logs**
 
   ## ▶️ EJECUCIÓN
