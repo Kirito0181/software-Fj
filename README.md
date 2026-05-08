@@ -48,10 +48,13 @@ Además, se utilizó Git y GitHub para el control de versiones y trabajo colabor
 
  
  #Clonar el repositorios
+ 
  git clone https://github.com/tu-usuario/software-fj.git
+ 
  cd software-fj
 
  #Ejecutar el sistema
+ 
  python main.py
 
  ## EQUIPO DE DESARROLLO
