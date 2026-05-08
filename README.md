@@ -46,11 +46,16 @@ Además, se utilizó Git y GitHub para el control de versiones y trabajo colabor
  
    ### Instrucciones
 
- ```bash
- Clonar el repositorios
+ 
+ #Clonar el repositorios
  git clone https://github.com/tu-usuario/software-fj.git
  cd software-fj
 
- Ejecutar el sistema
+ #Ejecutar el sistema
  python main.py
+
+ ## EQUIPO DE DESARROLLO
+ Fabricio Antonio Coronado Villera
+ Jorge Armando altamiranda Álvarez
+ Sebastián Andrés Mora Heredia
  
